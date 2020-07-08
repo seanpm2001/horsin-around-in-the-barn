@@ -1,0 +1,102 @@
+<!--- start of script !--->
+<HTML>
+ <head>
+  <meta charset="UTF-16"> <!-- A little overkill, but it works !-->
+</head> 
+<link rel='shortcut icon' type='image/x-icon' href='low_favicon.ico' />
+<HEAD>
+<head>
+  <link rel="stylesheet" href="2DStart_StyleSheet.css">
+  <link rel="stylesheet" href="2DStart_Style_StickyBarVersion1.0.css">
+  <link rel="stylesheet" href="2DStart_Style_StickySideBarVersion1.01.css">
+</head>
+<STYLE>
+#red1 {
+  color: red;
+}
+#blue1 {
+  color: blue;
+}
+#green1 {
+  color: green;
+}
+#yellow1 {
+  color: yellow;
+}
+#orange1 {
+  color: orange;
+}
+#cyan1 { 
+  color: cyan;
+}
+</STYLE>
+<TITLE>Pet Streaming Center - Guest is Home</TITLE>
+</HEAD>
+<BODY BGCOLOR="ADD8E6">
+<!-- Sidebar !-->
+<ul>
+  <img src="../Media/Camera.png" alt="CAM" width="200" height="200">
+  <li><a class="active" href="#home">Navigation</a></li>
+  <li><a href="../Home/Horsing_Around_In_The_Barn_Lobby.html">🏠 Go back</a></li>
+  <li><HR></li>
+  <li><i>We hope you have a wonderful stay!</i></li>
+</ul>
+<!-- end of sidebar !-->
+<div style="margin-left:25%;padding:1px 16px;height:1000px;">
+<!-- start of page content !-->
+<HR>
+<H1>Welcome to the streaming page</H1>
+<p>A special feature with our apartments include a pet streaming cam. There is a stall where you can keep your pets. As a bonus, when you are away, there is a live camera in the area where you can talk to your pets, and see them.</p>
+<p>At the end of your visit, you can download the video of your pets, and save it for future use.</p>
+ <video width="600" height="480" controls>
+  <source src="../cameras/currentStream.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> <!-- it is not ready to stream video yet !-->
+<H1>Download your video!</H1>
+<H2>Set up the video quality</H2>
+<H3>Video resolution</H3>
+<form>
+	<input type="radio" name="p01" value="144p"> 144p<br>
+	<input type="radio" name="p02" value="240p"> 240p<br>
+	<input type="radio" name="p03" value="288p"> 288p<br>
+	<input type="radio" name="p04" value="360p"> 360p<br>
+	<input type="radio" name="p05" value="480p"> 480p<br>
+	<input type="radio" name="p06" value="540p"> 540p<br>
+	<input type="radio" name="p07" value="720p"> 720p<br>
+	<input type="radio" name="p08" value="1080p"> 1080p<br>
+	<input type="radio" name="p09" value="1440p" disabled> 1440p<br>
+	<input type="radio" name="p10" value="2160p" disabled> 2160p [4K]<br>
+	<input type="radio" name="p11" value="4320p" disabled> 4320p [8K]<br>
+	<input type="radio" name="p12" value="8640p" disabled> 8640p [16K]<br>
+</form> 
+<H3>Video framerate (frames per second)</H3>
+<form>
+	<input type="radio" name="f01" value="1fps"> 1 frame per second<br>
+	<input type="radio" name="f02" value="2fps"> 2 frames per second<br>
+	<input type="radio" name="f03" value="3fps"> 3 frames per second<br>
+	<input type="radio" name="f04" value="4fps"> 4 frames per second<br>
+	<input type="radio" name="f05" value="5fps"> 5 frames per second<br>
+	<input type="radio" name="f06" value="8fps"> 8 frames per second<br>
+	<input type="radio" name="f07" value="10fps"> 10 frames per second<br>
+	<input type="radio" name="f08" value="12fps"> 12 frames per second<br>
+	<input type="radio" name="f09" value="15fps"> 15 frames per second<br>
+	<input type="radio" name="f10" value="18fps"> 18 frames per second<br>
+	<input type="radio" name="f11" value="20fps"> 20 frames per second<br>
+	<input type="radio" name="f12" value="24fps"> 24 frames per second<br>
+	<input type="radio" name="f13" value="30fps"> 30 frames per second<br>
+	<input type="radio" name="f14" value="36fps" disabled> 36 frames per second<br>
+	<input type="radio" name="f15" value="48fps" disabled> 48 frames per second<br>
+	<input type="radio" name="f16" value="60fps" disabled> 60 frames per second<br>
+</form> 
+<H3>Video format (file mime type)</H3>
+ <form>
+	<input type="radio" name="" value=""> *.webm<br>
+	<input type="radio" name="" value=""> *.mp4<br>
+</form> 
+<button><H1>Download video</H1></button>
+<p><b>Notice: download doesn't work yet as it hasn't been set up in this build. Please use a newer version of the website in order to stream and download this video</b></p>
+<HR>
+</HR>
+</BODY>
+</HTML>
+<!--- end of script !---
