@@ -34,15 +34,17 @@ An archive of the website I made for my parents AirB&B business.
 
 [07.0 - Pet streaming](#Pet-streaming)
 
-[08.0 - Version history](#Version-history)
+[08.0 - GitHub issues](#GitHub-issues)
 
-[09.0 - Contributers](#Contributers)
+[09.0 - Version history](#Version-history)
 
-[10.0 - Contributing](#Contributing)
+[10.0 - Contributers](#Contributers)
 
-[11.0 - README info](#README-info)
+[11.0 - Contributing](#Contributing)
 
-[12.0 - Footer](#End-of-README-file)
+[12.0 - README info](#README-info)
+
+[13.0 - Footer](#End-of-README-file)
 
 ***
 
@@ -124,11 +126,23 @@ This feature is not very developed at the moment, and does not work.
 
 ***
 
+## GitHub issues
+
+This is a list of the current GitHub issues for this project:
+
+#1 [https://github.com/seanpm2001/horsin-around-in-the-barn/issues/1/](3 files couldn't be uploaded)
+
+#2 [https://github.com/seanpm2001/horsin-around-in-the-barn/issues/2/](Google sites edition can't be imported)
+
+#3 [https://github.com/seanpm2001/horsin-around-in-the-barn/issues/](No other issues, as of Wednesday, July 8th 2020 at 5:15 pm)
+
+***
+
 ## Version history
 
-[Version 1.0a - GitHub release 1](127.0.0.1) - 33 commits (Released: Wednesday, July 8th 2020 at xx:xx pm)
+[Version 1.0a - GitHub release 1](https://github.com/seanpm2001/horsin-around-in-the-barn/releases/tag/V1.0A) - 33 commits (Released: Wednesday, July 8th 2020 at 4:56 pm)
 
-[Version 1.0b - GitHub release 2](127.0.0.1) - xx commits (Released: Wednesday, July 8th 2020 at xx:xx pm)
+[Version 1.0b - GitHub release 2](https://github.com/seanpm2001/horsin-around-in-the-barn/releases/tag/V1.0B) - 42 commits (Released: Wednesday, July 8th 2020 at 5:00 pm)
 
 [More versions coming soon](https://www.example.com/)
 
@@ -138,7 +152,7 @@ This feature is not very developed at the moment, and does not work.
 
 Currently, I am the only contributer, but if you follow ther CONTRIBUTING rules, you can contribute as well.
 
-1. [seanpm2001](https://github.com/seanpm2001/) - 33 commits (As of Wednesday, July 8th 2020 at 4:53 pm)
+1. [seanpm2001](https://github.com/seanpm2001/) - 43 commits (As of Wednesday, July 8th 2020 at 5:15 pm)
 
 2. No other contributers at the moment
 
@@ -154,9 +168,9 @@ Please abide by the contributing rules for this project. They are listed [here.]
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines): `168`
+Line count (including blank lines): `182`
 
-File version: `1 (Wednesday, July 8th 2020 at 4:53 pm)`
+File version: `2 (Wednesday, July 8th 2020 at 5:15 pm)`
 
 ***
 
